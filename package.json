@@ -7,7 +7,7 @@
   },
   "author": "Muhsin Abdul-Musawwir",
   "bin": {
-    "javascripting": "./bin/javascripting"
+    "webpacking": "./bin/webpacking"
   },
   "main": "./index.js",
   "preferGlobal": true,
