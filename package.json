@@ -1,11 +1,11 @@
 {
-  "name": "javascripting",
-  "description": "Learn JavaScript by adventuring around in the terminal.",
-  "version": "2.6.1",
+  "name": "webpacking-basics",
+  "description": "This workshop will give a solid foundation in usage of the Webpack module bundler.",
+  "version": "1.0.0",
   "repository": {
-    "url": "https://github.com/sethvincent/javascripting.git"
+    "url": "https://github.com/Shinobi881/nodeschool-webpack-workshopper.git"
   },
-  "author": "sethvincent",
+  "author": "Muhsin Abdul-Musawwir",
   "bin": {
     "javascripting": "./bin/javascripting"
   },
